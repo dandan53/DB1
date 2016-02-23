@@ -21,3 +21,7 @@ c:\users\danda\documents\visual studio 2012\Projects\DB1\DB1\bin\System.Web.WebP
 c:\users\danda\documents\visual studio 2012\Projects\DB1\DB1\obj\Debug\DB1.csprojResolveAssemblyReference.cache
 c:\users\danda\documents\visual studio 2012\Projects\DB1\DB1\obj\Debug\DB1.dll
 c:\users\danda\documents\visual studio 2012\Projects\DB1\DB1\obj\Debug\DB1.pdb
+c:\users\danda\documents\visual studio 2012\Projects\DB1\DB1\bin\System.Web.Http.dll
+c:\users\danda\documents\visual studio 2012\Projects\DB1\DB1\bin\System.Net.Http.Formatting.dll
+c:\users\danda\documents\visual studio 2012\Projects\DB1\DB1\bin\System.Web.Http.xml
+c:\users\danda\documents\visual studio 2012\Projects\DB1\DB1\bin\System.Net.Http.Formatting.xml
